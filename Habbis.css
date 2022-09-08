@@ -1,0 +1,176 @@
+#Nova{
+    margin-left: 58px !important;
+}
+
+#pt2{
+    margin-left: 294px !important;
+    background-color: white !important;
+    margin-top: 91px !important;
+    text-shadow:4px 4px 4px 4px black !important;
+}
+
+#pt4{
+  padding-right: 115px !important;
+  padding-left: 10px !important;
+  margin-left: 11px !important;
+  margin-top: 02px !important;
+  border: 1px solid #380b64;
+  box-shadow:  2px 2px 2px black;
+  padding-bottom: 0.3cm !important;
+  padding-top: 0.3cm !important;
+
+}
+
+body{
+    overflow-x:hidden !important;
+}
+
+#PT7{
+    padding-bottom: 0.3cm !important;
+    padding-top: 0.3cm !important;
+    margin-left: 6px !important;
+    margin-top: 02px !important;
+    border:1px solid #380b64;
+    box-shadow:2px 2px 2px; 
+}
+
+#bs1{
+    font-family: fantasy;
+    font-size: 34px !important;
+    color:red;
+    text-shadow: 2px 2px 2px black !important;
+    
+
+}
+
+#bs2{
+    font-family: fantasy;
+    font-size: 17px !important;
+    color:red;
+    text-shadow: 2px 2px 2px black !important;
+    white-space:nowrap !important;
+    margin-top: 04px;
+    
+
+}
+
+#bs3{
+    font-family: fantasy;
+    font-size: 17px !important;
+    color:red;
+    text-shadow: 2px 2px 2px black !important;
+    white-space:nowrap !important;
+    margin-top: 04px;
+    
+
+}
+
+#bs4{
+    font-family: fantasy;
+    font-size: 17px !important;
+    color:red;
+    text-shadow: 2px 2px 2px black !important;
+    white-space:nowrap !important;
+    margin-top: 04px;
+    
+
+}
+
+#bs5{
+    font-family: fantasy;
+    font-size: 17px !important;
+    color:red;
+    text-shadow: 2px 2px 2px black !important;
+    white-space:nowrap !important;
+    margin-top: 04px;
+    
+
+}
+
+#pt1{
+    border-radius: 10px 10px 10px !important;
+       
+}
+
+#bts{
+    margin-left: 20px !important;
+    position: absolute;
+}
+
+#BTS02{
+    background-color: darkred;
+    font-family: fantasy;
+    border-radius: 08px 08px 08px ;
+    box-shadow: 1px 1px black;
+    padding: 0.4cm;
+    border:1px solid #380b64;
+    text-shadow: 2px 2px 2px black !important;
+
+}
+
+#BTS03{
+    background-color: whitesmoke;
+    font-family: fantasy;
+    border-radius: 08px 08px 08px ;
+    color: yellow;
+    box-shadow: 1px 1px black;
+    padding: 0.3cm;
+    border:1px solid #380b64;
+    text-shadow: 2px 2px 2px  black!important;
+
+}
+
+#pts{
+    margin-left: 64px !important;
+    height: 100% !important;
+    width: 100% !important;
+    margin-top: 29px !important;
+
+    box-shadow: 2px 2p 2px black;
+    
+
+}
+
+#ys00{
+
+}
+
+#yes{
+
+    
+    margin-top: 44px !important;
+
+}
+
+#yes button{
+    background-color: transparent !important;
+    box-shadow: 4px 4px 4px black;
+}
+
+h2{
+    margin-top: 190px !important;
+    margin-left: 94px !important;
+    font-size: 44px !important;
+    font-family: fantasy;
+    color:darkorange;
+    text-shadow: 3px 3px 3px black;
+}
+
+#nvv{
+    margin-top: 28px !important;
+    margin-left:155px !important ;
+}
+
+#nnv{
+    margin-top: 10px !important;
+    margin-left:325px !important ; 
+}
+
+h4{
+    margin-left: 0px !important;
+    font-size: 124px !important;
+    font-family:fantasy;
+    color:darkorange;
+    text-shadow: 3px 3px 3px black;
+    white-space: nowrap !important;
+}
